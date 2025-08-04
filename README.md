@@ -40,20 +40,12 @@ python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 Install Dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the Script
 
-bash
-Copy
-Edit
 python src/data_cleaning.py
 Check Output
 
 Cleaned file: data/cleaned_customer_personality.csv
-
-Log file: logs/cleaning.log
 
 Summary report: reports/cleaning_summary.md
