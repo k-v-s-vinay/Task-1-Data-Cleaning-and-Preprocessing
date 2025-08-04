@@ -31,14 +31,12 @@ It follows **clean coding standards** and includes logging, modular functions, a
    ```bash
    git clone https://github.com/your-username/data-cleaning-project.git
    cd data-cleaning-project
-Create Virtual Environment
+**Create Virtual Environment**
 
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-Install Dependencies
+
+**Install Dependencies**
 
 pip install -r requirements.txt
 Run the Script
