@@ -39,6 +39,7 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 **Install Dependencies**
 
 pip install -r requirements.txt
+
 **Run the Script**
 python data_cleaning.py
 
