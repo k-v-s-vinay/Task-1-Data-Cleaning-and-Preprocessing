@@ -1,0 +1,9 @@
+
+---
+
+### ✅ **.gitignore**
+```gitignore
+venv/
+__pycache__/
+*.log
+*.pyc
